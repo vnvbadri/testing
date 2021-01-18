@@ -1,0 +1,14 @@
+[ {
+  "Name": "Az400-implement-security-and-compliance-in-an-azure-devops-pipeline",
+  "Language": "English",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/vnvbadri/PartsUnlimited/stage/_posts/2018-01-01-200.2x-IaC-SecurityandComplianceinpipeline_02.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/vnvbadri/PartsUnlimited/stage/_posts/2018-01-01-200.2x-IaC-SecurityandComplianceinpipeline_03.md",
+      "Order": 2
+    }
+  ]
+} ]
